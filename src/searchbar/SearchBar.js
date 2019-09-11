@@ -53,5 +53,5 @@ SearchBar.defaultProps = {
   platform: 'default',
 };
 
-export { SearchBar };
+// export { SearchBar };
 export default withTheme(SearchBar, 'SearchBar');

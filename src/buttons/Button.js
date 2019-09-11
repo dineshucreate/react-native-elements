@@ -256,5 +256,5 @@ const styles = {
   },
 };
 
-export { Button };
+// export { Button };
 export default withTheme(Button, 'Button');

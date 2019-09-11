@@ -240,5 +240,5 @@ const styles = {
   }),
 };
 
-export { Tooltip };
+// export { Tooltip };
 export default withTheme(Tooltip, 'Tooltip');

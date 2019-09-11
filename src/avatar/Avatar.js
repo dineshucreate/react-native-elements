@@ -238,5 +238,5 @@ Avatar.defaultProps = {
   ImageComponent: RNImage,
 };
 
-export { Avatar };
+// export { Avatar };
 export default withTheme(Avatar, 'Avatar');

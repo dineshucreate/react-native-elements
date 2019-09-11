@@ -220,5 +220,5 @@ const styles = {
   }),
 };
 
-export { Input };
+// export { Input };
 export default withTheme(Input, 'Input');

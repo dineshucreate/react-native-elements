@@ -83,5 +83,5 @@ const styles = {
   },
 };
 
-export { Badge };
+// export { Badge };
 export default withTheme(Badge, 'Badge');

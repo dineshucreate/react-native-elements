@@ -168,5 +168,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { Tile };
+// export { Tile };
 export default withTheme(Tile, 'Tile');

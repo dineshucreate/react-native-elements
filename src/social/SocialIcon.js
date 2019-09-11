@@ -217,5 +217,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { SocialIcon };
+// export { SocialIcon };
 export default withTheme(SocialIcon, 'SocialIcon');

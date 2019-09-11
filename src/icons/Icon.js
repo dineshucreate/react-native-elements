@@ -128,5 +128,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { Icon };
+// export { Icon };
 export default withTheme(Icon, 'Icon');

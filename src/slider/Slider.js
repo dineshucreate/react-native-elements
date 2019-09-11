@@ -638,5 +638,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { Slider };
+// export { Slider };
 export default withTheme(Slider, 'Slider');

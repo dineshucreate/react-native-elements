@@ -84,5 +84,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { TextElement };
+// export { TextElement };
 export default withTheme(TextElement, 'Text');

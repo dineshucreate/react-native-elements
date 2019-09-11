@@ -229,5 +229,5 @@ const styles = {
   },
 };
 
-export { Card };
+// export { Card };
 export default withTheme(Card, 'Card');

@@ -128,5 +128,5 @@ const styles = StyleSheet.create({
   },
 });
 
-export { Overlay };
+// export { Overlay };
 export default withTheme(Overlay, 'Overlay');

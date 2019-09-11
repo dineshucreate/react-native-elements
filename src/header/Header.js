@@ -190,5 +190,5 @@ const styles = {
   },
 };
 
-export { Header };
+// export { Header };
 export default withTheme(Header, 'Header');

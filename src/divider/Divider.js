@@ -23,5 +23,5 @@ const styles = {
   }),
 };
 
-export { Divider };
+// export { Divider };
 export default withTheme(Divider, 'Divider');

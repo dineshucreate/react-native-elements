@@ -369,5 +369,5 @@ PadView.propTypes = {
   Component: PropTypes.oneOfType([PropTypes.func, PropTypes.object]),
 };
 
-export { ListItem };
+// export { ListItem };
 export default withTheme(ListItem, 'ListItem');

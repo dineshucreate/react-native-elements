@@ -139,5 +139,5 @@ const styles = {
   }),
 };
 
-export { CheckBox };
+// export { CheckBox };
 export default withTheme(CheckBox, 'CheckBox');

@@ -150,5 +150,5 @@ FeaturedTile.defaultProps = {
   imageProps: {},
 };
 
-export { FeaturedTile };
+// export { FeaturedTile };
 export default withTheme(FeaturedTile, 'FeaturedTile');

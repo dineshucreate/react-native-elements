@@ -169,5 +169,5 @@ const styles = {
   },
 };
 
-export { PricingCard };
+// export { PricingCard };
 export default withTheme(PricingCard, 'PricingCard');

@@ -113,5 +113,5 @@ Image.defaultProps = {
   style: {},
 };
 
-export { Image };
+// export { Image };
 export default withTheme(Image, 'Image');
